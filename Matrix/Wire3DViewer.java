@@ -10,14 +10,13 @@ import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
 
 /**
- *
  * Move your model around with W, S, A, D (pan left/right and up/down)
  * Use Q and E to rotate around y-axis, 1 and 3 to rotate around x-axis
  * and Z and X to rotatearound z-axis.
  * 
  * Zoom with mousewheel up and down.
- * 
  */
+ 
 class Wire3DViewer extends JPanel {
 
 	private static final long serialVersionUID = 1L;
