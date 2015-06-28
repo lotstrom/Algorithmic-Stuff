@@ -60,7 +60,6 @@ class Matrix {
         return c;
 	}
 	
-	// Kind of hard coded but it works (;
 	Matrix inverse() {
 		Matrix a = this;
 		if (a.cols() == 3 && a.rows() == 3) {
