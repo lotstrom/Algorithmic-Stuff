@@ -1,0 +1,22 @@
+
+Total number of nodes: 202
+Total number of edges: 573
+
+The shortest distance between AS12182 and AS13535 is: 
+3
+
+Starting at: 
+
+Node: AS12182
+
+Through edge466, Weight: 1 to:
+
+Node: AS3549
+
+Through edge48, Weight: 1 to:
+
+Node: AS3561
+
+Through edge572, Weight: 1 to:
+
+Final node: AS13535

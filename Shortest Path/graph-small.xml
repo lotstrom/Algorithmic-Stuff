@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapdata>
+  <nodes>
+    <node id="559">AS559</node>
+    <node id="3292">AS3292</node>
+    <node id="1299">AS1299</node>
+    <node id="20965">AS20965</node>
+    <node id="80">AS80</node>
+    <node id="12956">AS12956</node>
+    <node id="9002">AS9002</node>
+    <node id="3267">AS3267</node>
+    <node id="22822">AS22822</node>
+    <node id="7018">AS7018</node>
+    <node id="19401">AS19401</node>
+    <node id="16735">AS16735</node>
+    <node id="11608">AS11608</node>
+    <node id="286">AS286</node>
+    <node id="40387">AS40387</node>
+    <node id="3257">AS3257</node>
+    <node id="11164">AS11164</node>
+    <node id="21889">AS21889</node>
+    <node id="6453">AS6453</node>
+    <node id="12654">AS12654</node>
+    <node id="1239">AS1239</node>
+    <node id="10026">AS10026</node>
+    <node id="6939">AS6939</node>
+    <node id="9304">AS9304</node>
+    <node id="3561">AS3561</node>
+    <node id="15412">AS15412</node>
+    <node id="14744">AS14744</node>
+    <node id="174">AS174</node>
+    <node id="46164">AS46164</node>
+    <node id="46133">AS46133</node>
+    <node id="30132">AS30132</node>
+    <node id="20562">AS20562</node>
+    <node id="11537">AS11537</node>
+    <node id="8167">AS8167</node>
+    <node id="7132">AS7132</node>
+    <node id="3549">AS3549</node>
+    <node id="2914">AS2914</node>
+    <node id="209">AS209</node>
+    <node id="5413">AS5413</node>
+    <node id="3356">AS3356</node>
+    <node id="27664">AS27664</node>
+  </nodes>
+  <edges>
+    <edge id="edge0" />
+    <edge id="edge1" />
+    <edge id="edge2" />
+    <edge id="edge3" />
+    <edge id="edge4" />
+    <edge id="edge5" />
+    <edge id="edge6" />
+    <edge id="edge7" />
+    <edge id="edge8" />
+    <edge id="edge9" />
+    <edge id="edge10" />
+    <edge id="edge11" />
+    <edge id="edge12" />
+    <edge id="edge13" />
+    <edge id="edge14" />
+    <edge id="edge15" />
+    <edge id="edge16" />
+    <edge id="edge17" />
+    <edge id="edge18" />
+    <edge id="edge19" />
+    <edge id="edge20" />
+    <edge id="edge21" />
+    <edge id="edge22" />
+    <edge id="edge23" />
+    <edge id="edge24" />
+    <edge id="edge25" />
+    <edge id="edge26" />
+    <edge id="edge27" />
+    <edge id="edge28" />
+    <edge id="edge29" />
+    <edge id="edge30" />
+    <edge id="edge31" />
+    <edge id="edge32" />
+    <edge id="edge33" />
+    <edge id="edge34" />
+    <edge id="edge35" />
+    <edge id="edge36" />
+    <edge id="edge37" />
+    <edge id="edge38" />
+    <edge id="edge39" />
+    <edge id="edge40" />
+    <edge id="edge41" />
+    <edge id="edge42" />
+    <edge id="edge43" />
+    <edge id="edge44" />
+    <edge id="edge45" />
+    <edge id="edge46" />
+    <edge id="edge47" />
+    <edge id="edge48" />
+    <edge id="edge49" />
+    <edge id="edge50" />
+    <edge id="edge51" />
+    <edge id="edge52" />
+    <edge id="edge53" />
+    <edge id="edge54" />
+    <edge id="edge55" />
+    <edge id="edge56" />
+    <edge id="edge57" />
+    <edge id="edge58" />
+    <edge id="edge59" />
+    <edge id="edge60" />
+    <edge id="edge61" />
+    <edge id="edge62" />
+    <edge id="edge63" />
+    <edge id="edge64" />
+    <edge id="edge65" />
+    <edge id="edge66" />
+    <edge id="edge67" />
+    <edge id="edge68" />
+    <edge id="edge69" />
+    <edge id="edge70" />
+    <edge id="edge71" />
+    <edge id="edge72" />
+    <edge id="edge73" />
+    <edge id="edge74" />
+    <edge id="edge75" />
+    <edge id="edge76" />
+    <edge id="edge77" />
+    <edge id="edge78" />
+    <edge id="edge79" />
+    <edge id="edge80" />
+    <edge id="edge81" />
+    <edge id="edge82" />
+    <edge id="edge83" />
+    <edge id="edge84" />
+    <edge id="edge85" />
+    <edge id="edge86" />
+    <edge id="edge87" />
+    <edge id="edge88" />
+    <edge id="edge89" />
+    <edge id="edge90" />
+    <edge id="edge91" />
+    <edge id="edge92" />
+    <edge id="edge93" />
+    <edge id="edge94" />
+    <edge id="edge95" />
+  </edges>
+  <paths>
+    <path edge="edge0" weight="5"><node id="9304" /><node id="6939" /></path>
+    <path edge="edge1" weight="1"><node id="3267" /><node id="3356" /></path>
+    <path edge="edge2" weight="4"><node id="10026" /><node id="3356" /></path>
+    <path edge="edge3" weight="5"><node id="12956" /><node id="12654" /></path>
+    <path edge="edge4" weight="4"><node id="11164" /><node id="174" /></path>
+    <path edge="edge5" weight="6"><node id="209" /><node id="3356" /></path>
+    <path edge="edge6" weight="2"><node id="3561" /><node id="3356" /></path>
+    <path edge="edge7" weight="16"><node id="6939" /><node id="1299" /></path>
+    <path edge="edge8" weight="6"><node id="6453" /><node id="9304" /></path>
+    <path edge="edge9" weight="6"><node id="10026" /><node id="6939" /></path>
+    <path edge="edge10" weight="1"><node id="11537" /><node id="6939" /></path>
+    <path edge="edge11" weight="12"><node id="209" /><node id="174" /></path>
+    <path edge="edge12" weight="2"><node id="12956" /><node id="3356" /></path>
+    <path edge="edge13" weight="1"><node id="6939" /><node id="15412" /></path>
+    <path edge="edge14" weight="32"><node id="3549" /><node id="7018" /></path>
+    <path edge="edge15" weight="5"><node id="11608" /><node id="3356" /></path>
+    <path edge="edge16" weight="1"><node id="2914" /><node id="9304" /></path>
+    <path edge="edge17" weight="3"><node id="5413" /><node id="12654" /></path>
+    <path edge="edge18" weight="1"><node id="3356" /><node id="15412" /></path>
+    <path edge="edge19" weight="4"><node id="11537" /><node id="20965" /></path>
+    <path edge="edge20" weight="6"><node id="20965" /><node id="559" /></path>
+    <path edge="edge21" weight="6"><node id="3257" /><node id="174" /></path>
+    <path edge="edge22" weight="2"><node id="3257" /><node id="3356" /></path>
+    <path edge="edge23" weight="4"><node id="3561" /><node id="174" /></path>
+    <path edge="edge24" weight="1"><node id="286" /><node id="3549" /></path>
+    <path edge="edge25" weight="6"><node id="3257" /><node id="6453" /></path>
+    <path edge="edge26" weight="10"><node id="11608" /><node id="6939" /></path>
+    <path edge="edge27" weight="5"><node id="20562" /><node id="12654" /></path>
+    <path edge="edge28" weight="38"><node id="30132" /><node id="12654" /></path>
+    <path edge="edge29" weight="1"><node id="286" /><node id="15412" /></path>
+    <path edge="edge30" weight="36"><node id="1239" /><node id="7018" /></path>
+    <path edge="edge31" weight="12"><node id="1299" /><node id="7018" /></path>
+    <path edge="edge32" weight="2"><node id="286" /><node id="3356" /></path>
+    <path edge="edge33" weight="18"><node id="3549" /><node id="46133" /></path>
+    <path edge="edge34" weight="3"><node id="286" /><node id="5413" /></path>
+    <path edge="edge35" weight="12"><node id="3257" /><node id="7018" /></path>
+    <path edge="edge36" weight="2"><node id="3292" /><node id="15412" /></path>
+    <path edge="edge37" weight="18"><node id="9304" /><node id="80" /></path>
+    <path edge="edge38" weight="72"><node id="174" /><node id="21889" /></path>
+    <path edge="edge39" weight="4"><node id="1299" /><node id="174" /></path>
+    <path edge="edge40" weight="214"><node id="7018" /><node id="46164" /></path>
+    <path edge="edge41" weight="25"><node id="27664" /><node id="16735" /></path>
+    <path edge="edge42" weight="1"><node id="3561" /><node id="3549" /></path>
+    <path edge="edge43" weight="2"><node id="7132" /><node id="3356" /></path>
+    <path edge="edge44" weight="10"><node id="16735" /><node id="3549" /></path>
+    <path edge="edge45" weight="3"><node id="3356" /><node id="7018" /></path>
+    <path edge="edge46" weight="11"><node id="7132" /><node id="7018" /></path>
+    <path edge="edge47" weight="4"><node id="8167" /><node id="174" /></path>
+    <path edge="edge48" weight="27"><node id="11608" /><node id="22822" /></path>
+    <path edge="edge49" weight="1"><node id="22822" /><node id="15412" /></path>
+    <path edge="edge50" weight="6"><node id="3549" /><node id="174" /></path>
+    <path edge="edge51" weight="36"><node id="209" /><node id="7018" /></path>
+    <path edge="edge52" weight="2"><node id="286" /><node id="6453" /></path>
+    <path edge="edge53" weight="24"><node id="10026" /><node id="7018" /></path>
+    <path edge="edge54" weight="8"><node id="10026" /><node id="174" /></path>
+    <path edge="edge55" weight="8"><node id="3292" /><node id="174" /></path>
+    <path edge="edge56" weight="24"><node id="22822" /><node id="7018" /></path>
+    <path edge="edge57" weight="6"><node id="559" /><node id="30132" /></path>
+    <path edge="edge58" weight="2"><node id="3267" /><node id="9002" /></path>
+    <path edge="edge59" weight="12"><node id="3561" /><node id="7018" /></path>
+    <path edge="edge60" weight="9"><node id="40387" /><node id="11537" /></path>
+    <path edge="edge61" weight="2"><node id="3292" /><node id="3549" /></path>
+    <path edge="edge62" weight="2"><node id="40387" /><node id="19401" /></path>
+    <path edge="edge63" weight="4"><node id="11537" /><node id="11164" /></path>
+    <path edge="edge64" weight="13"><node id="40387" /><node id="7132" /></path>
+    <path edge="edge65" weight="2"><node id="9002" /><node id="3356" /></path>
+    <path edge="edge66" weight="4"><node id="3561" /><node id="6453" /></path>
+    <path edge="edge67" weight="2"><node id="10026" /><node id="15412" /></path>
+    <path edge="edge68" weight="19"><node id="9304" /><node id="3549" /></path>
+    <path edge="edge69" weight="10"><node id="15412" /><node id="9304" /></path>
+    <path edge="edge70" weight="6"><node id="3292" /><node id="3356" /></path>
+    <path edge="edge71" weight="3"><node id="6939" /><node id="3549" /></path>
+    <path edge="edge72" weight="4"><node id="3549" /><node id="3356" /></path>
+    <path edge="edge73" weight="2"><node id="10026" /><node id="3549" /></path>
+    <path edge="edge74" weight="12"><node id="286" /><node id="1239" /></path>
+    <path edge="edge75" weight="1"><node id="3257" /><node id="3549" /></path>
+    <path edge="edge76" weight="2"><node id="14744" /><node id="3549" /></path>
+    <path edge="edge77" weight="4"><node id="16735" /><node id="8167" /></path>
+    <path edge="edge78" weight="24"><node id="3292" /><node id="1239" /></path>
+    <path edge="edge79" weight="4"><node id="12956" /><node id="7018" /></path>
+    <path edge="edge80" weight="1"><node id="11537" /><node id="3549" /></path>
+    <path edge="edge81" weight="4"><node id="7018" /><node id="174" /></path>
+    <path edge="edge82" weight="4"><node id="14744" /><node id="174" /></path>
+    <path edge="edge83" weight="3"><node id="209" /><node id="3549" /></path>
+    <path edge="edge84" weight="11"><node id="16735" /><node id="12956" /></path>
+    <path edge="edge85" weight="32"><node id="6939" /><node id="30132" /></path>
+    <path edge="edge86" weight="2"><node id="22822" /><node id="3549" /></path>
+    <path edge="edge87" weight="12"><node id="209" /><node id="6453" /></path>
+    <path edge="edge88" weight="2"><node id="19401" /><node id="20965" /></path>
+    <path edge="edge89" weight="8"><node id="11608" /><node id="14744" /></path>
+    <path edge="edge90" weight="1"><node id="11537" /><node id="15412" /></path>
+    <path edge="edge91" weight="19"><node id="6453" /><node id="12654" /></path>
+    <path edge="edge92" weight="1"><node id="3549" /><node id="6453" /></path>
+    <path edge="edge93" weight="4"><node id="286" /><node id="174" /></path>
+    <path edge="edge94" weight="10"><node id="3292" /><node id="12654" /></path>
+    <path edge="edge95" weight="2"><node id="14744" /><node id="3257" /></path>
+  </paths>
+</mapdata>
