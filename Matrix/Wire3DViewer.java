@@ -10,8 +10,6 @@ import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
 
 /**
- * 
- * @author origooo
  *
  * Move your model around with W, S, A, D (pan left/right and up/down)
  * Use Q and E to rotate around y-axis, 1 and 3 to rotate around x-axis
